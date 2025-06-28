@@ -27,7 +27,7 @@ I build clean, scalable, and user-focused web apps using modern JavaScript stack
 [BizSupportPro](https://github.com/Krinna21/bizsupportpro) — Full Stack SaaS platform for small business ticketing & subscriptions
 
 **Currently learning:**  
-TypeScript, Advanced React, Stripe API integration
+Advanceding Skills 
 
 ---
 
