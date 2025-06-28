@@ -6,6 +6,14 @@ I build clean, scalable, and user-focused web apps using modern JavaScript stack
 
 ---
 
+## 📑 Table of Contents
+- [Tech Stack](#️-tech-stack)
+- [Currently](#-currently)
+- [Featured Projects](#-featured-projects)
+- [Connect With Me](#-connect-with-me)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
