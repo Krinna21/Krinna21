@@ -1,69 +1,34 @@
-# 👋 Hi, I'm Krinna Patel
+<h1 align="center">Hi 👋, I'm Krinna Patel</h1>
+<h3 align="center">A Full Stack Developer passionate about building smooth, scalable, and secure web apps</h3>
 
-**Full Stack Software Engineer | Franklin, MA | Open to Remote & Hybrid**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krinna21&label=Profile%20views&color=0e75b6&style=flat" alt="krinna21" /> </p>
 
-I build clean, scalable, and user-focused web apps using modern JavaScript stacks. I love turning complex ideas into real, working products—fast. 🌟
 
----
+- 🔭 I’m currently working on [a website for MassIT Pro Solution LLC](www.massitpro.com)
 
-## 📑 Table of Contents
-- [Tech Stack](#️-tech-stack)
-- [Currently](#-currently)
-- [Featured Projects](#-featured-projects)
-- [Connect With Me](#-connect-with-me)
+- 🌱 I’m currently learning **to level up my skills and expand my experience with real-world full stack projects**
 
----
+- 👯 I’m looking to collaborate **on real-world projects and freelance work**
 
-## 🛠️ Tech Stack
+- 👨‍💻 All of my projects are available at [https://krinna-portfolio.vercel.app/](https://krinna-portfolio.vercel.app/)
 
-![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
+- 💬 Ask me about **React, Express, MongoDB, or building cool UI/UX**
 
----
+- 📫 How to reach me **krinna415@gmail.com**
 
-## 🚀 Currently
+- 📄 Know about my experiences [https://krinna-portfolio.vercel.app/](https://krinna-portfolio.vercel.app/)
 
-**Currently working on:**  
-[BizSupportPro](https://github.com/Krinna21/bizsupportpro) — Full Stack SaaS platform for small business ticketing & subscriptions
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/krinna72i98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krinna72i98/" height="30" width="40" /></a>
+</p>
 
-**Currently learning:**  
-Advanceding Skills 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krinna21&show_icons=true&locale=en&layout=compact" alt="krinna21" /></p>
 
-## 📂 Featured Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krinna21&show_icons=true&locale=en" alt="krinna21" /></p>
 
-- [BizSupportPro](https://github.com/Krinna21/bizsupportpro)  
-  *Full-Stack SaaS Platform | React, Node.js, Express, MongoDB*  
-  Modern ticket management app with Stripe subscription tracking and secure user authentication.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krinna21&" alt="krinna21" /></p>
 
-- [What To Wear (WTWR)](www.whatowear.jumpingcrab.com)  
-  *React Web Application | Vite, OpenWeather API*  
-  Real-time weather-based clothing recommendations with mobile optimization.
-
-- [MassITPro Website](www.massitpro.com)  
-  *Tech Website for a small business | Wordpress, Elementor*  
-  Responsive IT services website designed to boost user engagement and lead conversion.
-
-- [Personal Portfolio Site](krinna-portfolio.vercel.app)  
-  *React, Vite, EmailJS*  
-  Interactive, animated portfolio with custom modal resume and project showcase.
-
----
-
-## 📫 Connect With Me
-
-- **Email:** krinna415@gmail.com  
-- **LinkedIn:** [linkedin.com/in/krinna72i98](https://www.linkedin.com/in/krinna72i98)
-
----
-
-*Let’s build something awesome!*
